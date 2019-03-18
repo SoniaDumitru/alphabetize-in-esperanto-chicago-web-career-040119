@@ -1,3 +1,4 @@
 def alphabetize(arr)
-  # code here
+  esp_alph = " abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+  ascii = "@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\"
 end
