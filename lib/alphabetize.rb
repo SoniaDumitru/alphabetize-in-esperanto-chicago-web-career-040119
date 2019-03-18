@@ -1,3 +1,4 @@
+#sort an array of strings based on a non standard alphabet
 def alphabetize(arr)
     esp_alph = " abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
     ascii = "@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\"
