@@ -3,5 +3,5 @@ def alphabetize(arr)
     ascii = "@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\"
   arr.sort_by do |string|
     string.tr(esp_alph, ascii)
-end
+  end
 end
